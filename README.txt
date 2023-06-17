@@ -3,3 +3,6 @@ CountingSizeOfName
 
 ReverseString
 - This program reverses a String using two methods (documentation found inside the code).
+
+ColorGame
+- Have you played the Three Color Game when you were a kid in the Carnival? Well, the concept of this game is just the same. Good luck guessin!
